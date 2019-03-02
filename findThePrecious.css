@@ -1,0 +1,52 @@
+.carousel-inner img {
+	width: 90%;
+	height: 90%;
+}
+
+.littleText {
+	font-size: 10px;
+}
+
+.card-deck {
+	width: 5%;
+	height: 5%;
+	margin-left: 0.8%;
+}
+
+table, th, td {
+	margin-left: 5%;
+	border-style: solid;
+	border-color: black;
+	border-width: 0.1em;
+}
+
+table {
+	width: 35%;
+}
+caption {
+	caption-side: top;
+}
+
+hr {
+	height: 1%;
+	background-color: black;
+}
+
+a {
+	color: inherit;
+}
+
+.reward {
+	background-color: white;
+	opacity: 0.7;
+	border:10px solid white;
+	border-radius: 5px;
+}
+
+.number {
+	color: #f78031;
+}
+
+.showIt:hover .reward {
+	display: none;
+}
